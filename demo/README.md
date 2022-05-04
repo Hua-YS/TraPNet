@@ -1,2 +1,1 @@
-<video src='https://github.com/Hua-YS/TraPNet/blob/b437081b4ea6d2c868fa1f2c38d2a5ff06b0f10e/demo/demo.mp4' width=180/>
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+https://user-images.githubusercontent.com/48724890/166667405-0fca662d-16f6-4faf-9661-a836add0e53c.mp4
